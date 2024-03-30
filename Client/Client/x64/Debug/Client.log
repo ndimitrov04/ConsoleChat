@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Client\Client\Source.cpp(34,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Client\Client\Source.cpp(83,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Client\Client\Source.cpp(88,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Client\Client\Source.cpp(113,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Client\x64\Debug\Client.exe

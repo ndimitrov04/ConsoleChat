@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Server\Server\Source.cpp(234,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Server\Server\Source.cpp(76): warning C4715: 'loadAccount': not all control paths return a value
+  Server.vcxproj -> D:\- RYZEN -\Desktop\C++\Projects\9 Internet Login\Console Version try3\Server\x64\Debug\Server.exe
